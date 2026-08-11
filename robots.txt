@@ -1,0 +1,5 @@
+# Robots.txt for Silver Cab Services Sydney
+User-agent: *
+Allow: /
+
+Sitemap: https://silvercabservices.com.au/sitemap.xml
